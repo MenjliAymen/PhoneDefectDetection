@@ -1,1 +1,2 @@
-# PhoneDefectDetection
+This project focuses on automating scratch detection on mobile phone screens using a U-Net model for image segmentation. The U-Net architecture was chosen for its ability to efficiently capture both spatial and contextual information, making it well-suited for detecting fine defects like scratches. The model was trained on a dataset of scratched phone images and their corresponding masks, allowing it to learn precise scratch patterns. This approach ensures accurate segmentation of scratches, providing a reliable alternative to manual inspection in the production line.The dataset was found on kaggle and u always can add more pictures to it and 
+and the masks aswell as i did.
